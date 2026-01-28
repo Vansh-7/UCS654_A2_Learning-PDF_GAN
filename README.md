@@ -21,12 +21,12 @@ The input feature  (NO2 concentration) was transformed into a new variable  usin
 
 **Parameter Calculation:**
 
-**Roll Number (r):** 102483084
+**Roll Number ($r$):** 102483084
 
-*$a_r$** Calculation:**
+**$$a_r$$ Calculation:**
 $$r \pmod 7 = 4 \implies a_r = 0.5 \times 4 = \mathbf{2.0}$$
 
-*$b_r$** Calculation:**
+**$$b_r$$ Calculation:**
 $$r \pmod 5 = 4 \implies b_r = 0.3 \times (4 + 1) = \mathbf{1.5}$$
 
 
